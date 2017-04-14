@@ -1,1 +1,1 @@
-# studentGames
+# games.github.io
